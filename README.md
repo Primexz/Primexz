@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Primexz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hey, i am Johann !
+***
+## ❤️️ Thanks for being here!
 
-<!---
-Primexz/Primexz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Welcome to my Github profile. Most of my work is private but I have some exciting projects here aswell. Just scroll below. 😉**
+
+I am a developer, currently in an apprenticeship with a company.
+On my profile you can find a few projects I created in my spare time besides work
+- 📞 You can contact me through Discord (```Prime#1234```)
+- 🔗 Check out my website: [PepeDiscordBot](http://dash.pepebot.info/)
+
+Languages / Tools which I know:
+
+
+
+
