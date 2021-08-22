@@ -11,8 +11,11 @@ On my profile you can find a few projects I created in my spare time besides wor
 
 
 Languages / Tools which I know:
+
+
+My stats:
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Primexz)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Primexz?theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
