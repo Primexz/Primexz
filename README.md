@@ -3,7 +3,7 @@
 ### ❤️️ Thanks for being here!
 
 
-**Welcome to my Github profile. Most of my work is private but I have some exciting projects here aswell. 
+**Welcome to my Github profile. Most of my work is private but I have some projects here aswell. 
 Just scroll below. 😉**
 
 
