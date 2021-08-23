@@ -28,7 +28,7 @@ On my profile you can find a few projects I created in my spare time besides wor
 
 
 ## 🏆  My Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Primexz&theme=onedark))]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Primexz&theme=onedark)
 
 
 
