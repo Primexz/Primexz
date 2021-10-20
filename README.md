@@ -30,6 +30,7 @@ On my profile you can find a few projects I created in my spare time besides wor
 
 ## 🏆  My Github Stats:
 ![GH Stats](https://github-readme-stats.vercel.app/api?username=Primexz&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Primexz&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
