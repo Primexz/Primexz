@@ -9,8 +9,7 @@ Just scroll below. 😉**
 
 ## I am a developer, currently in an apprenticeship with a company.
 On my profile you can find a few projects I created in my spare time besides work
-- 📞 You can contact me through Discord (```Prime#1234```)
-- 📞 Or through Matrix: (```@johann:matrix.pepebot.info```)
+- 📞 You can contact me through Matrix: (```@johannt:matrix.pepebot.info```)
 
 
 ## 🧰 Languages and Tools:
