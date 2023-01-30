@@ -29,7 +29,7 @@ On my profile you can find a few projects I created in my spare time besides wor
 
 ## 🏆  My Github Stats:
 ![GH Stats](https://github-readme-stats.vercel.app/api?username=Primexz&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Primexz&layout=compact&theme=onedark&exclude_repo=GTA-1.58_Scripts,GTA-1.59_Scripts)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Primexz&layout=compact&theme=onedark&exclude_repo=GTA-1.58_Scripts,GTA-1.59_Scripts,GTAV-Decompiled-Scripts)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
