@@ -9,8 +9,6 @@ Just scroll below. 😉**
 
 ## I am a backend developer, currently working [@Securepoint](https://github.com/Securepoint)
 On my profile you can find a few projects I created in my spare time besides work
-- 📞 You can contact me through Matrix: (```@johannt:matrix-synapse.pepebot.info```)
-
 
 ## 🧰 Languages and Tools:
 <p align="center">
