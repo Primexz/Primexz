@@ -7,7 +7,7 @@
 Just scroll below. 😉**
 
 
-## I am a backend developer, currently working [@Securepoint](https://github.com/Securepoint)
+## I am a Fullstack-Developer, currently working [@Securepoint](https://github.com/Securepoint)
 On my profile you can find a few projects I created in my spare time besides work
 
 ## 🧰 Languages and Tools:
