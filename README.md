@@ -8,7 +8,8 @@ Just scroll below. 😉**
 
 
 ## I am a Fullstack-Developer, currently working [@Securepoint](https://github.com/Securepoint)
-On my profile you can find a few projects I created in my spare time besides work
+You can find some of the projects I've done in my spare time on my profile.
+Most of my work is on bitcoin-related projects.
 
 ## 🧰 Languages and Tools:
 <p align="center">
