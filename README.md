@@ -11,6 +11,14 @@ Just scroll below. 😉**
 You can find some of the projects I've done in my spare time on my profile.
 Most of my work is on bitcoin-related projects. ₿
 
+## ⚡️ Connect to my Lightning Node
+
+I run a Bitcoin Lightning Node that is primarily focused on reliability and supporting decentralised payments.
+Feel free to open a Lightning channel with me.
+
+[Lightning Node](https://amboss.space/node/0287474fce5db7481d8844981c5e2d4493a438b53226ee5316dd0feb8e12b1c0f7
+)
+
 ## 🧰 Languages and Tools:
 <p align="center">
 
